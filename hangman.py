@@ -56,7 +56,7 @@ HANGMAN_STAGES = [
 # A small fallback list keeps the game playable without downloading a file.
 FALLBACK_WORDS = [
     "python", "analytics", "computer", "hangman", "keyboard",
-    "variable", "function", "database", "program", "developer"
+    "variable", "function", "database", "program", "developer","apple","mango","datheon"
 ]
 
 
